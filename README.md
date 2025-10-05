@@ -2,6 +2,8 @@
 
 Open protocol for connecting Wallets to Dapps - https://walletconnect.com
 
+This documentation has been improved for better clarity and user experience.
+
 ## Setup
 
 1. Ensure [nodejs](https://nodejs.org) and [npm](https://www.npmjs.com)
