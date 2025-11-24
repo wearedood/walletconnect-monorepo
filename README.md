@@ -1,10 +1,10 @@
 # WalletConnect v2.x.x
 
-Open protocol for connecting Wallets to Dapps - https://walletconnect.com
+Open protocol for connecting Wallets to dApps - https://walletconnect.com
 
 ## Setup
 
-1. Ensure [nodejs](https://nodejs.org) and [npm](https://www.npmjs.com)
+1. Ensure [Node.js](https://nodejs.org) and [npm](https://www.npmjs.com)
 2. Clone the repository
 3. Install all package dependencies, by running `npm install` from the root folder
 
@@ -23,7 +23,7 @@ TEST_PROJECT_ID=YOUR_PROJECT_ID npm run check
 
 - `clean` - Removes build folders from all packages
 - `lint` - Runs [eslint](https://eslint.org/) checks
-- `prettier` - Runs [prettier](https://prettier.io/) checks
+- `prettier` - Runs [Prettier](https://prettier.io/) checks
 - `build` - Builds all packages
 - `test` - Tests all packages
 - `check` - Shorthand to run lint, build and test commands
